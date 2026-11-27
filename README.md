@@ -52,9 +52,12 @@
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
 </p>
 
+ <br>
+ 
+
 <!-- Heading 2 - Sección de Contact Me -->
 <h2>
-  :speech_ballon: Connect with Me
+  :speech_balloon: Connect with Me
 </h2>
 
 <p align="center">
